@@ -1,0 +1,20 @@
+p {
+    background-color: #ffb6c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div-no-background {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.div-background {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.large-text {
+    font-size: 24px;
+}
+
