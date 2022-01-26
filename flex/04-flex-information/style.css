@@ -8,13 +8,7 @@ img {
   height: 100px;
 }
 
-.title {
-  font-size: 36px;
-  font-weight: 900;
-  margin-bottom: 32px;
-}
-
-.plants {
+.items {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -23,6 +17,12 @@ img {
 
 .info {
   max-width: 200px;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 36px;
 }
 
 /* do not edit this footer */
